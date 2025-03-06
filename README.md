@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bizzybeeapps
-- 👀 I’m interested in mobile and web machine learning
+- 👀 I’m interested in AI, Machine learning and Mobile Development
 - 🌱 I’m currently learning machine learning algorithms
 - 💞️ I’m looking to share source code and ideas
 
